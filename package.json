@@ -1,0 +1,14 @@
+{
+  "name": "copipex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "type": "dist/main.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "gorimori",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}

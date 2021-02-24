@@ -1,4 +1,4 @@
-# copipex
+# no-copy
 
 Make text unselectable and uncopyable by flex order.
 

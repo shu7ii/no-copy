@@ -6,9 +6,9 @@
   "type": "dist/main.d.ts",
   "scripts": {},
   "keywords": [],
-  "author": "gorimori",
+  "author": "shu7ii",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^3.7.2"
+    "typescript": "^4.2.2"
   }
 }
